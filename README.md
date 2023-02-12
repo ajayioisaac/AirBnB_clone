@@ -1,1 +1,1 @@
-This is the readme file for my airBnB project
+This is the README file for my airBnB project
